@@ -220,6 +220,47 @@ img {
   border-top: 2px dashed #C0C0C0;
   background: #FFEBCD;
 }
+.footer .form {
+  margin-left: 43%;
+  font-size: 2rem;
+  color: red;
+}
+.footer h2 {
+  margin-left: 43%;
+}
+.footer h4 {
+  margin-left: 43%;
+  margin-top: 1%;
+}
+.footer input {
+  width: 150px;
+  height: 30px;
+  margin-top: 10px;
+}
+.footer #fromdiv {
+  margin-left: 43%;
+}
+.footer #todiv {
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  margin-left: 43%;
+}
+.footer .form-button {
+  margin-left: 43%;
+  width: 120px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: coral;
+  font-size: 1.8rem;
+  text-align: center;
+  padding: 10px;
+  margin-top: 40px;
+}
+.footer .form-button:hover {
+  background: white;
+  color: red;
+}
 .footer p {
   text-align: center;
   color: #212529;
